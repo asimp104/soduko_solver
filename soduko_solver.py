@@ -65,9 +65,4 @@ def solve(board):
         
     return False
 
-def solver(board):
-    if solve(board):
-        return board
-    else:
-        return "no"
 
